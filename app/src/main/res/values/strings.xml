@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Family Finder</string>
+    <string name="Close"> Close</string>
+    <string name="notify_title">Alert from Family finder</string>
+    <string name="banner_ad_unit_id">ADS</string>
+<string name="Pop_ad_unit_id"> Pop_ad_unit_id</string>
+    <string name="NoTrackerList"> You do not have any person to track at this time. Please login with this account by your other devices</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back"> Back</string>
+    <string name="RateDesc"> Would you like to rate the app?</string>
+
+
+
+
+
+
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="Map_API_Key">AIzaSyBMhTKRPIEm-d_jUgoNX5td8dNj3HBxLGg</string>
+    <string name="NoContact">You do not have any family member registered with this account, Do you want to share this app with your family member,to install it</string>
+    <string name="NoOrders">no order listed, click add button to add new order</string>
+    <string name="Pop_ad_Rewarded">ca-app-pub-7315471620590850/2642053720</string>
+    <string name="ShareUse">FamilyIn will help our family to be connected, install it now</string>
+    <string name="add">Add</string>
+    <string name="add_item">Add new Order</string>
+    <string name="add_new_account">Add new Family Account</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="added_order">Order is added</string>
+    <string name="almots_there">", and you almost there, "</string>
+
+    <string name="battery">Battery</string>
+    <string name="canno_add_order">Order cannot be added</string>
+    <string name="cannotadd">" cannot be updated"</string>
+    <string name="delivere">(Deliver)</string>
+    <string name="enter_family_email">enter family Email</string>
+    <string name="enter_family_password">enter family Password</string>
+    <string name="enter_order_name">enter Order name</string>
+    <string name="enter_your_email">enter your Email</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_password">enter your Password</string>
+    <string name="error_denail_loc">" cannot access it denied"</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="get_my_password">Get my Password</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="login_With">Login With Family account:</string>
+    <string name="login_first">Login (1/2)</string>
+    <string name="login_second">Login (2/2)</string>
+    <string name="need_to_buy">" need to buy "</string>
+    <string name="need_update">&lt;h3>User app need new update &lt;/h3></string>
+    <string name="next">Next</string>
+    <string name="owner">(Owner)</string>
+    <string name="pay_addation_users">You could track up to %s users for free. and we see you have Addition users. You have to pay to view their locations. Do you want to pay for one addition user?</string>
+    <string name="pick_location">Pick Location (optional)</string>
+    <string name="place_get">Place: %s</string>
+    <string name="require_feild">Please Complete all your information first .At lest 3 character in every field</string>
+    <string name="save_time">save his time and buy it for him</string>
+    <string name="shop_cart">Family shopping cart</string>
+    <string name="show_delivered">Show delivered</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="start">Start</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="yes">Yes</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="accept">Accept</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="default_web_client_id">553431617862-nl06uhbg3gabp8t1b3905curi3ka50ff.apps.googleusercontent.com</string>
+    <string name="firebase_database_url">https://foodapp-9ca23.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">553431617862</string>
+    <string name="google_api_key">AIzaSyD4YRJGmkKysnzkpuUFt-Uoq4cU9XxCCKI</string>
+    <string name="google_app_id">1:553431617862:android:9da78a5034d32c85</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD4YRJGmkKysnzkpuUFt-Uoq4cU9XxCCKI</string>
+    <string name="google_maps_key">AIzaSyD1TbHF38qbk1vHtworJii5c8sTj0Py-aU</string>
+    <string name="google_storage_bucket">foodapp-9ca23.appspot.com</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+
+
+
+
+
+</resources>

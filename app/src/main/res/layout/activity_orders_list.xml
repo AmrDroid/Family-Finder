@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.FloatingActionButton
+        android:layout_gravity="end|bottom|center" android:id="@+id/fab"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@drawable/ic_add_shopping_cart_white_24dp"
+        app:backgroundTint="@color/blue" />
+
+    <ListView android:id="@+id/LVNews" android:background="@color/whitebackground"
+        android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:divider="@color/whitebackground" android:dividerHeight="9.0dip"
+        android:layout_weight="1.0" />
+</android.support.design.widget.CoordinatorLayout>
